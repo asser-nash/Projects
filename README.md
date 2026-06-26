@@ -1,4 +1,4 @@
-# Security Tools
+# security tools
 
 a growing collection of small tools I've built while learning offensive
 security and ethical hacking. Each tool lives in its own folder with a
