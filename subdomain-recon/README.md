@@ -3,7 +3,7 @@
 a passive + active subdomain reconnaissance tool, built as a learning project
 for ethical hacking / bug bounty work.
 
-## What it does
+## what it does
 
 1. **passive recon**: Queries [crt.sh](https://crt.sh) (Certificate Transparency logs)
    to find every subdomain that has ever had a TLS certificate issued for it.
