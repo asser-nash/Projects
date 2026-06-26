@@ -4,7 +4,7 @@ a growing collection of small tools I've built while learning offensive
 security and ethical hacking. Each tool lives in its own folder with a
 detailed README, usage instructions, and notes on ethical/legal use.
 
-## Tools
+## tools
 
 ### [`subdomain-recon/`](./subdomain-recon)
 [assive + active subdomain enumeration tool. combines certificate
