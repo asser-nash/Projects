@@ -15,9 +15,9 @@ for ethical hacking / bug bounty work.
 
 ## why this is a useful portfolio project
 
-subdomain enumeration is genuinely the first step in most real pentests and
-bug bounty engagements — finding the full attack surface before testing
-anything. This tool demonstrates:
+subdomain enumeration is almost always the first step in most real pentests and
+bug bounty engagements, finding the full attack surface before testing
+anything. this tool demonstrates:
 
 - working with public APIs (crt.sh's JSON endpoint)
 - concurrent programming (ThreadPoolExecutor for DNS resolution)
