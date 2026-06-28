@@ -21,7 +21,7 @@ LEGAL/ETHICAL NOTICE:
   reconnaissance, but always respect scope agreements and program rules
   if you're doing this under a bug bounty.
 
-Author: [your name]
+Author: Asser Nashaat
 License: MIT
 """
 
