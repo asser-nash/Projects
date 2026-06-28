@@ -20,7 +20,7 @@ WHAT THIS TOOL IS NOT FOR:
     crack hashes, and it doesn't brute-force anything.
   - It does not perform online lookups against live accounts.
 
-Author: [your name]
+Author: Asser Nashaat
 License: MIT
 """
 
